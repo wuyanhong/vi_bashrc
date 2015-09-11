@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/sunplusedu/vi'
+let g:netrw_dirhist_2='/home/yanhong'
+let g:netrw_dirhist_3='/home/yanhong/.vim'
+let g:netrw_dirhist_4='/home/yanhong/start_study/socket/program/file_udp'
+let g:netrw_dirhist_5='/etc/sysctl.d'
